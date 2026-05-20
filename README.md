@@ -15,7 +15,7 @@
 ```bash
 fastboot oem edl
 ```
-4. then a popup will apper asking to all ADBify to allow to access the usb device, press OK
+4. then a popup will apper asking to all ADBify to allow access the usb device, press OK
 5. And if you phone supports the function to reboot from fastboot to edl you screen will go black, if it goes black, congratulations, your phone is now in edl, and if it enters edl dont unplug you phone or else it will exit the edl mode
 6. If it gives an error and fosent enter edl mode, then you have to firt power off you phone completely, then hold booth volume up and volume down buttons and while holding then connect the phone with your host phon
 7. If even that doesn't work and the phone insted starts charging insted of staying black, you have to open the back of your phone, short your modal specific edl test points and immediately connect it to the host phone
