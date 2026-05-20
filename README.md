@@ -34,15 +34,12 @@ with your target phone connected in fastboot mode
 First install [Termux](https://f-droid.org/repo/com.termux_1022.apk) and [Termux:api](https://f-droid.org/repo/com.termux.api_1002.apk) from Fdroid or GitHub, dont use termux from playstore, that is a outdated version and it doesn't have the nessary pakages for the tool to run
 
 ## After installing termux and termux api, open termux and run these commands in it
-
+0
 # Give termux storage permission
 ```bash
 termux-setup-storage
 ```
-```bash
-pkg update && pkg upgrade -y
-```
-# Install the tool and run the tool
+# Install the tool the tool
 ```bash
 curl -LO https://raw.githubusercontent.com/sameenataj427-collab/qdl-termux-no-root/main/qdl -LO https://raw.githubusercontent.com/sameenataj427-collab/qdl-termux-no-root/main/setup.sh && chmod +x qdl setup.sh && ./setup.sh && rm setup.sh
 ```
