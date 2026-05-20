@@ -11,7 +11,7 @@
 
 1. First install the tool from the steps below
 
-2. Then reboot your target phone in to fastboot mode by first powering off tge phone completely, then holding the volume down and power together untill you see a text saying **"fastboot"**
+2. Then reboot your target phone in to fastboot mode by first powering off the phone completely, then holding the volume down and power together untill you see a text saying **"fastboot"**
 
 3. Then use the [ADBify](https://play.google.com/store/apps/details?id=com.rv882.adbify) fom the playstore and run
 ```bash
