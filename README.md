@@ -33,6 +33,8 @@ with your target phone connected in fastboot mode
 
 First install [Termux](https://f-droid.org/repo/com.termux_1022.apk) and [Termux:api](https://f-droid.org/repo/com.termux.api_1002.apk) from Fdroid or GitHub, dont use termux from playstore, that is a outdated version and it doesn't have the nessary pakages for the tool to run
 
+## After installing termux and termux api, open termux and run these commands in it
+
 # Give termux storage permission
 ```bash
 termux-setup-storage
