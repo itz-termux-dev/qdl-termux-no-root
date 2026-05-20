@@ -47,7 +47,7 @@ curl -LO https://raw.githubusercontent.com/sameenataj427-collab/qdl-termux-no-ro
 ```bash
 qdl
 ```
+## For suggestions and bug reports please contact on sameenataj427@gmail.com. thank you
+
 # credits
 the original file is from repair a2z, i just patched all the glitches it had after the new Termux updates 
-
-For suggestions and bug reports please contact on sameenataj427@gmail.com. thank you
