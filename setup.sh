@@ -4,7 +4,7 @@ echo "🚀 Starting Sameen's QDL Setup..."
 
 # 1. Install Dependencies
 echo "📦 Installing requirements..."
-pkg update && pkg install libxml2 patchelf termux-api -y
+pkg update && pkg upgrade && pkg install libxml2 patchelf termux-api -y
 
 # 2. Identify and Patch Library
 # This finds the actual file (e.g., libxml2.so.16) on the user's phone
